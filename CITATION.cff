@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or refer to this repository, please cite the project."
+title: "Forecasting Saudi Arabia's GDP"
+type: software
+authors:
+  - family-names: Desmet
+    given-names: Simon
+  - family-names: Karamustafa
+    given-names: Ali Aydin
+  - family-names: Seick
+    given-names: Manuel
+date-released: 2026
